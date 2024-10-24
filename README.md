@@ -10,12 +10,15 @@ Certstream-BIH-Scanner je aplikacija koja prati SSL/TLS certifikate u realnom vr
    git clone https://github.com/arnelabosblackx/Certstream-BIH-Scanner.git
 
 2. Pređite u direktorijum projekta:
+   ```bash
    cd Certstream-BIH-Scanner
 3. Instalirajte potrebne biblioteke:
+   ```bash
    pip install -r requirements.txt
 
 ## Kako pokrenuti aplikaciju
 Da pokrenete aplikaciju, koristite sledeću komandu:
+```bash
 python main.py
 
 ## Upotreba
