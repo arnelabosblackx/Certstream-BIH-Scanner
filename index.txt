@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Skeniranje</title>
+</head>
+<body>
+    <h1>Dobrodošli u aplikaciju za skeniranje domena!</h1>
+    <form action="/scan" method="get">
+        <label for="domain">Unesite domen:</label>
+        <input type="text" id="domain" name="domain" required>
+        <button type="submit">Skeniraj</button>
+    </form>
+</body>
+</html>
