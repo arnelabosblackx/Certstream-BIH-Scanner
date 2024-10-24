@@ -21,6 +21,7 @@ Da pokrenete aplikaciju, koristite sledeću komandu:
 ```bash
 python main.py
 
+
 ## Upotreba
 Aplikacija pruža web interfejs za skeniranje domena. Unesite domen u formu i pritisnite "Skeniraj" da biste proverili njegove statusne informacije.
 
@@ -32,5 +33,7 @@ Aplikacija pruža web interfejs za skeniranje domena. Unesite domen u formu i pr
 
 ## Doprinos
 Svi su dobrodošli da doprinesu projektu! Molimo vas da otvorite problem ili pošaljete zahtjev za povlačenje sa svojim prijedlozima.
+
+
 
 
