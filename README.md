@@ -17,13 +17,13 @@ Certstream-BIH-Scanner je aplikacija koja prati SSL/TLS certifikate u realnom vr
    pip install -r requirements.txt
    
 ## Kako pokrenuti aplikaciju
-Da pokrenete aplikaciju, koristite sledeću komandu:
+Da pokrenete aplikaciju, koristite sljedeću komandu:
 ```bash
 python main.py
 
 ```
 ## Upotreba
-Aplikacija pruža web interfejs za skeniranje domena. Unesite domen u formu i pritisnite "Skeniraj" da biste proverili njegove statusne informacije
+Aplikacija pruža web interfejs za skeniranje domena. Unesite domen u formu i pritisnite "Skeniraj" da biste provjerili njegove statusne informacije.
 
 ## Zavisnosti
 - Flask
